@@ -10,9 +10,8 @@ I am a full-stack web developer with a love of design. I recently graduated from
 </a>
 <br>
 
-<a href="mailto:katherine.nishimura@live.ca?subject=Found%20you%20on%20Github!&body=Hi%20Kat%2C" target="_blank" style="margin-bottom: 5px;>
-
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+<a href="mailto:katherine.nishimura@live.ca?subject=Found%20you%20on%20Github!&body=Hi%20Kat%2C" target="_blank">
+<img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="margin-bottom: 5px;">
 </a>
 <br>
 
