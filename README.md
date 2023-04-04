@@ -3,17 +3,20 @@
 ## About Me
 I am a full-stack web developer with a love of design. I recently graduated from Lighthouse Labs Web Development Bootcamp. 
 
-### Contact
+## Contact
 <p>
 <a href="https://www.linkedin.com/in/katherine-nishimura-89824b175/" target="_blank">
 <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" style="margin-bottom: 5px;">
 </a>
 <br>
 
-<a href="mailto:katherine.nishimura@live.ca?subject=Found%20you%20on%20Github!&body=Hi%20Kat%2C" target="_blank">	
-<img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" style="margin-bottom: 5px;">
+<a href="mailto:katherine.nishimura@live.ca?subject=Found%20you%20on%20Github!&body=Hi%20Kat%2C" target="_blank" style="margin-bottom: 5px;>
+
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 </a>
-</p>
+<br>
+
+
 
 ## My Tech Stack
 
@@ -21,6 +24,7 @@ I am a full-stack web developer with a love of design. I recently graduated from
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <a href="#/"><img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
@@ -54,6 +58,7 @@ I am a full-stack web developer with a love of design. I recently graduated from
 
 ## What I want to learn next
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <a href="#/"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
