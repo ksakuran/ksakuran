@@ -1,10 +1,13 @@
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets9.lottiefiles.com/packages/lf20_amnqanpd.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+
 <h1 align="center">Hello 👋 I'm Katherine Nishimura</h1>
 
-<h2 align="center">About Me</h2>
+<h3 align="center">About Me</h3>
 <p align="center">
 I am a full-stack web developer with a love of design. I recently graduated from Lighthouse Labs Web Development Bootcamp. </p>
 
-<h2 align="center">Contact</h2>
+<h3 align="center">Contact</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/katherine-nishimura-89824b175/" target="_blank">
 <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" style="margin-bottom: 5px;">
