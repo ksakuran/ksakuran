@@ -4,20 +4,23 @@
 I am a full-stack web developer with a love of design. I recently graduated from Lighthouse Labs Web Development Bootcamp. 
 
 ### Contact
-
+<p>
 <a href="https://www.linkedin.com/in/katherine-nishimura-89824b175/" target="_blank">
 <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" style="margin-bottom: 5px;">
 </a>
 <br>
 
-&nbsp;
 <a href="mailto:katherine.nishimura@live.ca?subject=Found%20you%20on%20Github!&body=Hi%20Kat%2C" target="_blank">	
 <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" style="margin-bottom: 5px;">
 </a>
+</p>
 
 ## My Tech Stack
 
 <p>
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 <a href="#/"><img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
