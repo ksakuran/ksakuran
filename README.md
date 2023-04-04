@@ -5,7 +5,7 @@
 I am a full-stack web developer with a love of design. I recently graduated from Lighthouse Labs Web Development Bootcamp. </p>
 
 <h2 align="center">Contact</h2>
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/katherine-nishimura-89824b175/" target="_blank">
 <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" style="margin-bottom: 5px;">
 </a>
@@ -20,7 +20,7 @@ I am a full-stack web developer with a love of design. I recently graduated from
 
 <h2 align="center">Tech Stack and Tools</h2>
 
-<p>
+<p align="center">
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
@@ -49,15 +49,17 @@ I am a full-stack web developer with a love of design. I recently graduated from
 
 
 <h2 align="center">What I am learning</h2>
+<p align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <a href="#/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
-
+</p>
 
 
 
 <h2 align="center">What I want to learn next</h2>
+<p align="center">
 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -68,4 +70,4 @@ I am a full-stack web developer with a love of design. I recently graduated from
 <a href="#/"><img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge"></a>
-
+</p>
