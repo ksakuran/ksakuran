@@ -1,4 +1,3 @@
-![lottie animation](https://lottiefiles.com/93075-adaptive-web-design)
 
 <h1 align="center">Hello 👋 I'm Katherine Nishimura</h1>
 
