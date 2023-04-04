@@ -1,9 +1,10 @@
-# Hello 👋 I'm Katherine Nishimura
+<h1 align="center">Hello 👋 I'm Katherine Nishimura</h1>
 
-## About Me
-I am a full-stack web developer with a love of design. I recently graduated from Lighthouse Labs Web Development Bootcamp. 
+<h2 align="center">About Me</h2>
+<p align="center">
+I am a full-stack web developer with a love of design. I recently graduated from Lighthouse Labs Web Development Bootcamp. </p>
 
-## Contact
+<h2 align="center">Contact</h2>
 <p>
 <a href="https://www.linkedin.com/in/katherine-nishimura-89824b175/" target="_blank">
 <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" style="margin-bottom: 5px;">
@@ -17,7 +18,7 @@ I am a full-stack web developer with a love of design. I recently graduated from
 
 
 
-## My Tech Stack
+<h2 align="center">Tech Stack and Tools</h2>
 
 <p>
 
@@ -47,7 +48,8 @@ I am a full-stack web developer with a love of design. I recently graduated from
 </p>
 
 
-## What I am learning
+<h2 align="center">What I am learning</h2>
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <a href="#/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
@@ -55,7 +57,8 @@ I am a full-stack web developer with a love of design. I recently graduated from
 
 
 
-## What I want to learn next
+<h2 align="center">What I want to learn next</h2>
+
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <a href="#/"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
