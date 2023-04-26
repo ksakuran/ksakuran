@@ -24,8 +24,11 @@ I am a full-stack web developer with a love of design. I recently graduated from
 <p align="center">
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <a href="#/"><img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
@@ -46,6 +49,7 @@ I am a full-stack web developer with a love of design. I recently graduated from
 <a href="#/"><img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Sass" src="https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge"></a>
+
 </p>
 
 
@@ -54,8 +58,13 @@ I am a full-stack web developer with a love of design. I recently graduated from
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 <a href="#/"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
+
 
 </p>
 
@@ -66,10 +75,16 @@ I am a full-stack web developer with a love of design. I recently graduated from
 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 <a href="#/"><img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
+
+
 </p>
